@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1545052976 source:e:\maligno\arvoreemdisco\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	"Database.hpp"
+
+1541670194 e:\maligno\arvoreemdisco\database.hpp
+	<iostream>
+	<cstdlib>
+	"Node.hpp"
+	"Database.inl"
+
+1541670194 e:\maligno\arvoreemdisco\node.hpp
+	<iostream>
+
+1541670194 e:\maligno\arvoreemdisco\database.inl
+	<stdexcept>
+	<stack>
+
+1545054684 source:d:\arvoreemdisco\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	"Database.hpp"
+
+1541670194 d:\arvoreemdisco\database.hpp
+	<iostream>
+	<cstdlib>
+	"Node.hpp"
+	"Database.inl"
+
+1541670194 d:\arvoreemdisco\node.hpp
+	<iostream>
+
+1541670194 d:\arvoreemdisco\database.inl
+	<stdexcept>
+	<stack>
+
